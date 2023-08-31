@@ -15,8 +15,7 @@ Libraries:
 ## Description
 
 ![Screenshot from 2023-08-31 13-00-52](https://github.com/Stamp1t/password-manager/assets/132808663/06c0cb0d-bc27-4020-b03b-5d37324011b8)
-- the user can add his own personal data by filling in the entry fields on the left side
-- 
+- the user can add his personal data by filling in the entry fields on the left side
 
 
 ![Screenshot from 2023-08-31 13-02-03](https://github.com/Stamp1t/password-manager/assets/132808663/1a52790b-115f-4d67-ae4e-24e7225ae043)
