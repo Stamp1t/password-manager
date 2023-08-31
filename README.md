@@ -31,4 +31,4 @@ Libraries:
 - by using the now created Access Token, the user can can observe his decrypted passwords
 
 ![Screenshot from 2023-08-31 13-11-15](https://github.com/Stamp1t/password-manager/assets/132808663/2cb104e0-1168-440a-b3c3-8ef60a84093c)
-- the searchbar lets the user filter his results according to the tags which the user entered when he created an data-entry
+- the searchbar lets the user filter his results according to the tags which had to be entered when the entry was created
